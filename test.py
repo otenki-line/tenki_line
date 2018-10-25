@@ -8,7 +8,7 @@ import urllib.request
 
 # weather's API
 WEATHER_URL="http://weather.livedoor.com/forecast/webservice/json/v1?city=%s"
-CITY_CODE="090010" # TOKYO
+CITY_CODE="090010" # 宇都宮
 TODAY=0
 TOMMOROW=1
 
